@@ -1,0 +1,11 @@
+{
+    "name": "mlimengu/mailer-bundle",
+    "type": "symfony-bundle",
+    "authors": [
+        {
+            "name": "M. A. Djae",
+            "email": "med.ahamada@gmail.com"
+        }
+    ],
+    "require": {}
+}
