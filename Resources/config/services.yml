@@ -1,0 +1,4 @@
+services:
+#    mlimengu_mailer.example:
+#        class: Mlimengu\MailerBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

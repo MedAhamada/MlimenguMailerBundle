@@ -1,0 +1,3 @@
+mlimengu_mailer_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: MlimenguMailerBundle:Default:index }
