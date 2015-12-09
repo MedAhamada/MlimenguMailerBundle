@@ -22,5 +22,5 @@
         "symfony/validator": "~2.3|~3.0",
         "symfony/yaml": "~2.3|~3.0",
         "willdurand/propel-typehintable-behavior": "~1.0"
-    },}
+    },
 }
