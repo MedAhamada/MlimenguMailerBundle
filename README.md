@@ -1,2 +1,2 @@
 # Mlimengu Mailer Bundle
-Mlimengu Project
+Just a Demo Project
